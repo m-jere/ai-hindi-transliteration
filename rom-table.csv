@@ -1,64 +1,64 @@
-, tradHindi, newHindi, english
-, अ, अ, a
-, आ, आ, ā
-, इ,  िअ , i
-, ई , अी , ī
-, उ , अु , u
-, ऊ, अू, ū
-, ऋ, अृ
-, ॠ,अॄ
-, ऌ, , l
-, अे, अे, ĕ
-, ए, अे, e
-, अॅ, अॅ, ê
-, अै, अै, ăi
-, ऐ, अै, ai
-, ऒ, ऒ, ŏ
-, ओ, ओ, o
-, ऑ, ऑ, ô
-, औ, औ, ău
-, औ, औ, au 
-, , क, ka 
-, , च ,ca 
-, , ट, ṭa 
-, , त, ta
-, , क़, qa 
-, , छ, cha 
-, , ᬲ  , t̤a
-, , थ, tha
-, , ख, kha 
-, , ज, ja 
-, , ठ, ṭha 
-, , द, da
-, , ख़, kha 
-, , ज़, za 
-, , ड, ḍa 
-, , ध, dha
-, , ग, ga 
-, , झ, jha 
-, , ड़, ṛa 
-, , न, na
-, , ग़,  gha 
-, , ञ, ña 
-, , ढ, ḍha
-, , घ, gha 
-, , ढ़, ṛha
-, , ᬬ, gha
-, , ण, ṇa
-, , ङ, ṅa 
-, , प, pa
-, , य, ya 
-, , श, śa 
-, , ह, ha
-, , फ, pha 
-, , र, ra 
-, , ष, sha 
-, , [ᭂ,  h̤a
-, , फ़, fa
-, , ल, la 
-, , स, sa
-, , ब, ba 
-, , व, va 
-, , ᭁ , s̤a
-, , भ, bha
-, , म, ma
+,tradHindi,newHindi,english
+1, अ, अ, a
+2, आ, आ, ā
+3, इ,  िअ , i
+4, ई , अी , ī
+5, उ , अु , u
+6, ऊ, अू, ū
+7, ऋ, अृ
+8, ॠ,अॄ
+9, ऌ, , l
+10, अे, अे, ĕ
+11, ए, अे, e
+12, अॅ, अॅ, ê
+13, अै, अै, ăi
+14, ऐ, अै, ai
+15, ऒ, ऒ, ŏ
+16, ओ, ओ, o
+17, ऑ, ऑ, ô
+18, औ, औ, ău
+19, औ, औ, au 
+20, None , क, ka 
+21, None, च ,ca 
+22, None , ट, ṭa 
+23,None , त, ta
+24, None, क़, qa 
+25, None, छ, cha 
+26, None, ᬲ  , t̤a
+27, None, थ, tha
+28, None, ख, kha 
+29, None, ज, ja 
+30, None, ठ, ṭha 
+31, None, द, da
+32, None, ख़, kha 
+33, None, ज़, za 
+34, None, ड, ḍa 
+35, None, ध, dha
+36, None, ग, ga 
+37, None, झ, jha 
+38, None, ड़, ṛa 
+39, None, न, na
+40, None, ग़,  gha 
+41, None, ञ, ña 
+42, None, ढ, ḍha
+43, None, घ, gha 
+44, None, ढ़, ṛha
+45, None, ᬬ, gha
+46, None, ण, ṇa
+47, None, ङ, ṅa 
+48, None, प, pa
+49, None, य, ya 
+50, None, श, śa 
+51, None, ह, ha
+52, None, फ, pha 
+53, None, र, ra 
+54, None, ष, sha 
+55, None, [ᭂ,  h̤a
+56, None, फ़, fa
+57, None, ल, la 
+58, None, स, sa
+59, None, ब, ba 
+60, None, व, va 
+61, None, ᭁ , s̤a
+62, None, भ, bha
+63, None, म, ma
