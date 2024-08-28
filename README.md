@@ -1,4 +1,3 @@
-### ai-hindi-transliteration
 ## Hindi to English Transliteration Model
 This model is based off of the project done during the school year, where we improved upon the HathiTrust system by organizing the metadata. However, we failed to address the shortcomings in translation issues, since many works on the platform deal with non-romanized languages. If a work has been transliterated differently or incorrectly, then further duplicate works will remain in the library, which will continue to impede the user search process. Thus, by improving the transliteration methodology, HathiTrust can be improved upon and used as a resource amongst students and academics alike.
 
@@ -20,7 +19,7 @@ The validation dataset is used to assess the model's generalization and to tune 
 Once the model is trained, it can be used to generate English transliterations for new Hindi words. The input Hindi word is passed through the trained model, and the decoder generates the corresponding English transliteration character by character. The generated output is the predicted English transliteration.
 
 
-# Steps of Model (FIX)
+# Steps of Model 
 To use the transliteration model, follow these steps:
 1. Prepare the dataset: Use the list of common hindi words and transliterate them to get romanizations. These romanizations use the Library of Congress Hindi Romanization Table character-to-character conversions
 2. Train the model: Use the training dataset to train the transliteration model. Adjust the hyperparameters and experiment with different architectures, if necessary.
@@ -28,7 +27,7 @@ To use the transliteration model, follow these steps:
 4. Save the trained model: Save the trained model's parameters and architecture to a file (e.g., model.keras in this case). Examine to evaluate the current accuracy
 5. Predict transliterations: Use the loaded model to predict English transliterations for new Hindi words. Pass the Hindi word through the model and obtain the generated transliteration. Compare this with the transliteration function. 
 
-#Tools
+# Tools
 * Pandas
 * TensorFlow
 * Keras API
