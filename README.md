@@ -31,6 +31,6 @@ To use the transliteration model, follow these steps:
 * Pandas
 * TensorFlow
 * Keras API
-* [Library of Congress] (https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hindi/Hindi.txt)
-* [Reference Project] (https://github.com/roshancharlie/Hindi-To-English-Transliteration-Model/tree/main)
-* [List of Hindi Words] (https://www.loc.gov/catdir/cpso/romanization/hindi.pdf)
+* [Library of Congress](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hindi/Hindi.txt)
+* [Reference Project](https://github.com/roshancharlie/Hindi-To-English-Transliteration-Model/tree/main)
+* [List of Hindi Words](https://www.loc.gov/catdir/cpso/romanization/hindi.pdf)
